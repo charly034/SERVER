@@ -1,0 +1,39 @@
+{
+  "productos": [
+    {
+      "id": 2,
+      "nombre": "Teclado",
+      "precio": 485000
+    },
+    {
+      "id": 3,
+      "nombre": "Monitor",
+      "precio": 350000
+    },
+    {
+      "id": 4,
+      "nombre": "Impresora",
+      "precio": 250000
+    },
+    {
+      "id": 5,
+      "nombre": "Pendrive",
+      "precio": 65000
+    },
+    {
+      "id": 6,
+      "nombre": "Auriculares",
+      "precio": 125000
+    },
+    {
+      "id": 7,
+      "nombre": "Joystick",
+      "precio": 98000
+    },
+    {
+      "id": 8,
+      "nombre": "Parlantes",
+      "precio": 85000
+    }
+  ]
+}

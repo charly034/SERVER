@@ -34,6 +34,11 @@
       "id": 8,
       "nombre": "Parlantes",
       "precio": 85000
+    },
+    {
+      "id": 9,
+      "nombre": "Teclado",
+      "precio": 48505100
     }
   ]
 }

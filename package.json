@@ -6,13 +6,13 @@
     "servidor",
     "coderhouse"
   ],
-  "homepage": "https://github.com/Drako01/be_76800#readme",
+  "homepage": "https://github.com/charly034/SERVER",
   "bugs": {
-    "url": "https://github.com/Drako01/be_76800/issues"
+    "url": "https://github.com/charly034/SERVER"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Drako01/be_76800.git"
+    "url": "git+https://github.com/charly034/SERVER.git"
   },
   "license": "MIT",
   "author": "Alejandro Di Stefano",
